@@ -31,10 +31,9 @@ The challenge is about create an application to store projects and their tasks f
 
 - Create a global middleware called on every request that prints (`console.log`) a count of how many requests have been made in the application so far;
 
-## :memo: License
+## :link: Original challenge
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+The original challenge can be accessed through the link: https://github.com/Rocketseat/bootcamp-gostack-desafio-01
 
 ---
-
-Made with ♥ by Rocketseat: wave: [Join our community!] (Https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat:wave: [Join our community!] (Https://discordapp.com/invite/gCRAFhc)
