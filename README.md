@@ -36,4 +36,4 @@ The challenge is about create an application to store projects and their tasks f
 The original challenge can be accessed through the link: https://github.com/Rocketseat/bootcamp-gostack-desafio-01
 
 ---
-Made with ♥ by Rocketseat:wave: [Join our community!] (Https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat:wave: [Join the community!] (Https://discordapp.com/invite/gCRAFhc)
